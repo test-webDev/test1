@@ -9,7 +9,6 @@ For example:
 * "A basic HTML page demonstrating the structure of a webpage."
 * "My first HTML project."
 
-## Installation
 
 (Usually, HTML projects don't require installation.  If you have any specific instructions, add them here.  If not, you can omit this section or just say "No installation required.")
 
